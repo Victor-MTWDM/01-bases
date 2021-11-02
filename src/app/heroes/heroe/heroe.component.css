@@ -1,0 +1,29 @@
+button {
+    background-color: rgb(3, 19, 250);
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
+  }
+  
+  button:hover {
+    background-color: #a1e8f1;
+    color:rgb(2, 27, 250);
+    
+  }
+  
+  button:focus{ 
+    outline: none;
+  }
+
+  h1{
+      color: brown;
+  }
+
+  h1{
+      color:rgb(3, 3, 233);
+      font-weight: bold;
+  }
